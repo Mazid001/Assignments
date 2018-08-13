@@ -1,0 +1,40 @@
+.sidenav{
+	
+	height: 100%;
+	width: 140px;
+	position: Fixed;
+	padding-top: 20px;
+	
+	
+}
+
+.tile{
+	
+	height: 300px;
+	overflow: hidden;
+	
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+	text-overflow: ellipsis;
+}
+
+.panel-body{
+	
+	height: 200px;
+	
+	overflow: hidden;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	
+	
+}
+
+
+
+.panel-heading{
+	
+	height: 50px;
+	
+	
+}
